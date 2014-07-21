@@ -1,6 +1,6 @@
 #!/system/bin/sh
 # ----------------------------------------------------
-# Copyright 2014 Pizza_Dox@xda
+# Weed 0.2 © 2014 Pizza_Dox@xda
 # ----------------------------------------------------
 # Rapid Storage Boost 2.2
 echo 27640520 > /proc/sys/vm/dirty_writeback_centisecs
@@ -58,7 +58,6 @@ echo "           ''**MMMMhx).h)..=*'"
 echo "                    .3P'%...."
 echo " "
 echo "Your Nexus just smoked weed!";
-sleep 0.5;
 # ----------------------------------------------------
 exit
 # G+: http://goo.gl/lqw1Gq
